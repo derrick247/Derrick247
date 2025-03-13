@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
  
 
-[![Linkedin: Emmanuel Tatieze](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdunn891/)](https://www.linkedin.com/in/emmanuel-tatieze-b9449921b/)
+[![Linkedin: Donald](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdunn891/)](https://www.linkedin.com/in/donald-guemmogne/)
 
 <!--
 **derrick247/Derrick247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
